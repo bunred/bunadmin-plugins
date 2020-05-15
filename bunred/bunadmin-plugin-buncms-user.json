@@ -1,0 +1,21 @@
+{
+  "id": "bunadmin-plugin-buncms-user",
+  "name": "bunadmin auth",
+  "version": "1.0.0-alpha.1",
+  "description": "authentication, user query",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bunred/bunadmin-plugin-buncms-user.git"
+  },
+  "plugin-folder": "buncms-user",
+  "download": {
+    "type": "git",
+    "url": "https://github.com/bunred/bunadmin-plugin-buncms-user/archive/1.0.0-alpha.1.zip"
+  },
+  "keywords": [
+    "user",
+    "auth"
+  ],
+  "homepage": "https://github.com/bunred/bunadmin-plugin-buncms-user"
+}
