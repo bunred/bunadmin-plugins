@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/bunred/bunadmin-plugin-data-source-strapi.git"
   },
-  "keywords": ["data resource", "resource"],
+  "keywords": ["data source", "source"],
   "homepage": "https://github.com/bunred/bunadmin-plugin-data-source-strapi",
   "plugin-id": "bunadmin-plugin-data-source-strapi",
   "plugin-navigation": "data-source",
