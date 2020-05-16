@@ -1,4 +1,5 @@
 {
+  "enable": true,
   "name": "bunadmin-plugin-strapi-blog",
   "version": "1.0.0-alpha.1",
   "description": "blog example for Strapi",

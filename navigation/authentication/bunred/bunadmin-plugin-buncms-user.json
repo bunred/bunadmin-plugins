@@ -1,4 +1,5 @@
 {
+  "enable": true,
   "name": "bunadmin user authentication",
   "version": "1.0.0-alpha.1",
   "description": "authentication, user query",
