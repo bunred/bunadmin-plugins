@@ -1,0 +1,27 @@
+{
+  "enable": true,
+  "name": "buncms file upload",
+  "version": "1.0.0-alpha.1",
+  "description": "bunadmin file upload plugin",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bunred/bunadmin-plugin-buncms-file.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "file upload"
+  ],
+  "homepage": "https://github.com/bunred/bunadmin-plugin-buncms-file",
+  "plugin-id": "bunadmin-plugin-buncms-file",
+  "plugin-navigation": "file-upload",
+  "plugin-author": "bunred",
+  "plugin-folder": "buncms-file",
+  "plugin-version": "1.0.1",
+  "plugin-bunadmin-version": "1.0.1",
+  "plugin-download": {
+    "type": "git",
+    "url": "https://github.com/bunred/bunadmin-plugin-buncms-file/archive/1.0.1.zip"
+  }
+}
